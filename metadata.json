@@ -1,0 +1,6 @@
+{
+  "name": "StarbeeTune",
+  "description": "High-performance, privacy-focused YouTube Music and local music player with live synced lyrics, custom audio equalizer, and Material 3 design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
